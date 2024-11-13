@@ -63,9 +63,11 @@ dataframe_operation
 Now that we have the survival rates for each family size, let's create a bar plot to visualize this relationship:
 series_operation
 {'function': 'plot.bar', 'kwargs': {'figsize': [10, 6], 'title': 'Survival Rate by Family Size', 'xlabel': 'Family Size', 'ylabel': 'Survival Rate'}}
+```
 
 ![](resources/example.png)
 
+```
 Based on the analysis of the relationship between family size and survival rate on the Titanic, we can draw the following conclusions:
 
 1. Family size distribution:
