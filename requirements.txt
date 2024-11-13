@@ -1,0 +1,6 @@
+pydantic
+notebook
+matplotlib
+pandas
+anthropic
+Pillow
