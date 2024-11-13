@@ -29,6 +29,7 @@ class Pop(BaseModel):
 
 class SeriesAssign(BaseModel):
     """Assign the series in the series register to the dataframe at the top of the stack."""
+```
 
 The LLM is prompted to make a decision of what tool to use at each step. A full
  demo, with the output in the linked [demo.ipynb](demo.ipynb) is below. Note 
